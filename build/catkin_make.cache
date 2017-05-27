@@ -1,0 +1,2 @@
+reader
+-DCATKIN_DEVEL_PREFIX=/home/ja/temperaturausgabe/devel -DCMAKE_INSTALL_PREFIX=/home/ja/temperaturausgabe/install -G Unix Makefiles
